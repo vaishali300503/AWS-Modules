@@ -11,5 +11,11 @@ In Case study 2, I learned the Cloud Deployment Models
 In Case Study 3, I learned the Cloud Service Models 1.Laas 2.Paas 3.Saas
 ![Image](https://github.com/user-attachments/assets/689ff78e-e25d-4c94-b139-66a1ff443487)
 ![Image](https://github.com/user-attachments/assets/7c65d408-2965-446c-a004-2a9bb01237d7)
-Below I am mentioning the result of Knowledge test I gave after Completion of Module 1 
+Below I am attaching the result of Knowledge test I gave after Completion of Module 1 
 ![Image](https://github.com/user-attachments/assets/a9c15766-1e2e-4669-bb0d-a0be45b36847)
+
+In Module 2 Case Study 4 , Total Cost Of Ownership - Delaware North
+
+In Case Study 5,Calculated cost of storrage , profiling ,cleaning and data analysis with  AWS Pricing Calculator
+
+In case Study 6, Support Plan and atatched Module 2's Knowledge Check as well.
