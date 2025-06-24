@@ -26,11 +26,13 @@ In case Study 6, Support Plan and attached Module 2's Knowledge Check as well.
 In Module 3, Case Study 7,learned AWS's Global Infrastructure
 
 Below I am attaching the result of Knowledge test I gave after Completion of Module 3.
-
+![Image](https://github.com/user-attachments/assets/d15a6c70-9445-46cd-b413-2ebce1a8f9dd)
 
 Module 4's Case study 8 is about responsibly towards AWS and Opertional Environment (UCW)
+![Image](https://github.com/user-attachments/assets/deadafee-e4d5-4113-b450-9820768c5393)
 
 Case study 9 of module 4 is about IAM Practice Lab 1 and knowledge check of module 4 is also attached.
+![Image](https://github.com/user-attachments/assets/cf9add41-6dba-4975-b216-d7b7368482cc)
 
 
 
