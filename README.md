@@ -20,5 +20,5 @@ In Module 2 Case Study 4 , Total Cost Of Ownership - Delaware North
 In Case Study 5,Calculated cost of storrage , profiling ,cleaning and data analysis with  AWS Pricing Calculator
 ![Image](https://github.com/user-attachments/assets/ec8e6c99-2c97-4756-bdb7-0ea26b01ac2f)
 
-In case Study 6, Support Plan and atatched Module 2's Knowledge Check as well.
+In case Study 6, Support Plan and attached Module 2's Knowledge Check as well.
 ![Image](https://github.com/user-attachments/assets/a2bf8676-aa31-4875-8ca3-01153e598cb8)
