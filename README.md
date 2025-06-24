@@ -24,6 +24,7 @@ In case Study 6, Support Plan and attached Module 2's Knowledge Check as well.
 ![Image](https://github.com/user-attachments/assets/a2bf8676-aa31-4875-8ca3-01153e598cb8)
 
 In Module 3, Case Study 7,learned AWS's Global Infrastructure
+![Image](https://github.com/user-attachments/assets/14b6eba1-aa2e-4bba-8348-c6b445095b93)
 
 Below I am attaching the result of Knowledge test I gave after Completion of Module 3.
 ![Image](https://github.com/user-attachments/assets/d15a6c70-9445-46cd-b413-2ebce1a8f9dd)
