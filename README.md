@@ -15,7 +15,10 @@ Below I am attaching the result of Knowledge test I gave after Completion of Mod
 ![Image](https://github.com/user-attachments/assets/a9c15766-1e2e-4669-bb0d-a0be45b36847)
 
 In Module 2 Case Study 4 , Total Cost Of Ownership - Delaware North
+![Image](https://github.com/user-attachments/assets/2ada8e29-077f-4199-80ea-3803f0e89984)
 
 In Case Study 5,Calculated cost of storrage , profiling ,cleaning and data analysis with  AWS Pricing Calculator
+![Image](https://github.com/user-attachments/assets/ec8e6c99-2c97-4756-bdb7-0ea26b01ac2f)
 
 In case Study 6, Support Plan and atatched Module 2's Knowledge Check as well.
+![Image](https://github.com/user-attachments/assets/a2bf8676-aa31-4875-8ca3-01153e598cb8)
