@@ -22,3 +22,17 @@ In Case Study 5,Calculated cost of storrage , profiling ,cleaning and data analy
 
 In case Study 6, Support Plan and attached Module 2's Knowledge Check as well.
 ![Image](https://github.com/user-attachments/assets/a2bf8676-aa31-4875-8ca3-01153e598cb8)
+
+In Module 3, Case Study 7,learned AWS's Global Infrastructure
+
+Below I am attaching the result of Knowledge test I gave after Completion of Module 3.
+
+
+Module 4's Case study 8 is about responsibly towards AWS and Opertional Environment (UCW)
+
+Case study 9 of module 4 is about IAM Practice Lab 1 and knowledge check of module 4 is also attached.
+
+
+
+
+
