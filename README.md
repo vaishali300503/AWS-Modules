@@ -36,10 +36,13 @@ Case study 9 of module 4 is about IAM Practice Lab 1 and knowledge check of modu
 ![Image](https://github.com/user-attachments/assets/cf9add41-6dba-4975-b216-d7b7368482cc)
 
 In module 5 Case study 10 I learned to creaate VPC and appeared knowledge check at the end of the module learning.
+![Image](https://github.com/user-attachments/assets/f4b2de52-86f8-48be-9a4f-8959fce99fa0)
 
 In module 6 I gained concept of how to create AWS Lambda function and checked knowlege at the end 
+![Image](https://github.com/user-attachments/assets/1d6fc255-21b1-451f-b52a-5168087af97f)
 
-In module 7 Case Study 11, I learned how to work with EBS and appeared Knowlege check at the end 
+In module 7 Case Study 11, I learned how to work with EBS and appeared Knowlege check at the end
+![Image](https://github.com/user-attachments/assets/3ffb5158-af82-4eee-b375-03315f54e67b)
 
 
 
