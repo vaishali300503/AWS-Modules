@@ -35,6 +35,14 @@ Module 4's Case study 8 is about responsibly towards AWS and Opertional Environm
 Case study 9 of module 4 is about IAM Practice Lab 1 and knowledge check of module 4 is also attached.
 ![Image](https://github.com/user-attachments/assets/cf9add41-6dba-4975-b216-d7b7368482cc)
 
+In module 5 Case study 10 I learned to creaate VPC and appeared knowledge check at the end of the module learning.
+
+In module 6 I gained concept of how to create AWS Lambda function and checked knowlege at the end 
+
+In module 7 Case Study 11, I learned how to work with EBS and appeared Knowlege check at the end 
+
+
+
 
 
 
